@@ -1,3 +1,7 @@
+Welome to my fullstack web app using the PERN stack. I used postgresSQL to create the server, Express JS and Node JS for the database and routes, and built the frontend using REACT.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
