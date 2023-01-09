@@ -1,4 +1,4 @@
-Welome to my fullstack web app using the PERN stack. I used postgresSQL to create the server, Express JS and Node JS for the database and routes, and built the frontend using REACT.
+Welome to my fullstack web app using the PERN stack. I used postgreSQL to create the server, Express JS and Node JS for the database and routes, and built the frontend using REACT.
 
 
 
